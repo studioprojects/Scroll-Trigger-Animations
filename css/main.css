@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh;
+    background-color: grey;
+}
+
+.one {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 20px;
+}
+
+.two {
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin: 20px;
+}
+
+.three {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 20px;
+}
